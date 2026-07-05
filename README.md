@@ -1,3 +1,5 @@
+![logo](https://github.com/Tanwi20024/Tanwi20024/blob/main/GitB.png)
+
 <h1 align="center">Hi 👋, I'm Tanwi Srivastava</h1>
 
 <p align="center">
