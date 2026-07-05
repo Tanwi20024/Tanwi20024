@@ -7,9 +7,6 @@
 
 <img align="right" alt="Coding" width="400" src="assets/coding-illustration.jpg">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tanwi20024&label=Profile%20views&color=0e75b6&style=flat" alt="tanwi20024" />
-</p>
 
 - 🌱 I'm currently learning **Python, Data Structures & Algorithms, Machine Learning, Flask, SQL, Git, and System Design**
 - 👯 I'm looking to collaborate on **Open Source Python Projects, AI/ML Applications, Flask APIs, and Automation Tools**
