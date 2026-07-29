@@ -13,7 +13,7 @@
 - 🌱 I'm currently learning **Python, Data Structures & Algorithms, Machine Learning, Flask, SQL, Git, and System Design**
 - 👯 I'm looking to collaborate on **Open Source Python Projects, AI/ML Applications, Flask APIs, and Automation Tools**
 - 📫 How to reach me: **tanwisrivastava2018@gmail.com**
-- 📄 Know more about my experience: [My Resume](https://docs.google.com/document/d/1G52g9yY9pmU3ThuVkU6ydMLi0q2YQnuo/edit?usp=drivesdk)
+- 📄 Know more about my experience: [My Resume](https://docs.google.com/document/d/1UvWXD2B9R9anmW49idT_EcnfYg6_KklA/edit)
 - 🌐 Explore my portfolio: [My Portfolio](https://portfolio-tanwi.vercel.app)
 - ⚡ Fun fact: **I enjoy turning ideas into real-world Python projects**
 
